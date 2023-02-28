@@ -8,7 +8,7 @@ Budget Box, with a frontend built in React & Redux and a backend built in Django
 
 Check out [FRONTEND LIVE DEMO](https://budget-box-frontend.manthya20.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-gd.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://Budget-Box-Backend.manthya20.repl.co) here!!
 
 ## Tech used
 
